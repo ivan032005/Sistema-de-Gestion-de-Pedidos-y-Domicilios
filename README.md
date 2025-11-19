@@ -6,14 +6,14 @@ Sistema completo de gestión de pedidos a domicilio que simula el funcionamiento
 
 ## Características Principales
 
-- ✅ Registro y consulta de clientes, restaurantes y domiciliarios
-- ✅ Gestión completa del ciclo de pedidos (crear, asignar, entregar, cancelar)
-- ✅ Búsqueda automática del restaurante más cercano
-- ✅ Asignación inteligente del domiciliario disponible más cercano
-- ✅ Mapa de ciudad con zonas y distancias (implementado como grafo)
-- ✅ Historial de pedidos por cliente
-- ✅ Reportes y estadísticas del sistema
-- ✅ Interfaz de consola interactiva
+- Registro y consulta de clientes, restaurantes y domiciliarios
+- Gestión completa del ciclo de pedidos (crear, asignar, entregar, cancelar)
+- Búsqueda automática del restaurante más cercano
+- Asignación inteligente del domiciliario disponible más cercano
+- Mapa de ciudad con zonas y distancias (implementado como grafo)
+- Historial de pedidos por cliente
+- Reportes y estadísticas del sistema
+- Interfaz de consola interactiva
 
 ## Estructuras de Datos Utilizadas
 
