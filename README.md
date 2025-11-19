@@ -17,15 +17,15 @@ Sistema completo de gestión de pedidos a domicilio que simula el funcionamiento
 
 ## Estructuras de Datos Utilizadas
 
-1. Lista Enlazada Simple
+1. Lista Enlazada Simple:
 - Uso: Almacenamiento de clientes y domiciliarios
 - Justificación: Permite inserción eficiente y recorrido secuencial para búsquedas por criterios personalizados
 
-2. Árbol Binario de Búsqueda
+2. Árbol Binario de Búsqueda:
 - Uso: Almacenamiento de restaurantes indexados por código
 - Justificación: Búsqueda eficiente O(log n) de restaurantes por código, optimizando las consultas frecuentes
 
-3. Cola (Queue - FIFO)
+3. Cola (Queue - FIFO):
 - Uso: 
   - Cola de pedidos pendientes
   - Cola de pedidos en camino
@@ -37,10 +37,10 @@ Sistema completo de gestión de pedidos a domicilio que simula el funcionamiento
 - Historial de pedidos cancelados
 - Justificación: Los pedidos más recientes son más relevantes para consultas de historial
 
-5.  Grafo
+5.  Grafo:
 Representa zonas de la ciudad y rutas entre ellas.
 
-7. Algoritmo de Dijkstra
+7. Algoritmo de Dijkstra:
 Se usa para obtener la distancia mínima entre zonas.
 
 
